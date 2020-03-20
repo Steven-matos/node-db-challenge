@@ -40,19 +40,11 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
-    SQL is the language that that is used to query the database and relational databases are the systems that is used to house data.
-
 - [ ] Why do tables need a `primary key`?
-
-    To be able to have a reference for the table.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
-    This is called a Forign Key.
-
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
-
-    We need to have a bridge table to be able to have the relationship of the two tables.
 
 ## Minimum Viable Product
 
